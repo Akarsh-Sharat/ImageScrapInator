@@ -1,6 +1,6 @@
-# Image Scrapper
+# ImageScrapInator
 
-This is a python based image scraping bot that will extract and download images as per users' request.
+This is a selenium based image scraping bot that will extract and download images as per users' request.
 
 ## Working
 
